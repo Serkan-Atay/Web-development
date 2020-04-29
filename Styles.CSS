@@ -1,0 +1,43 @@
+/* Author: Serkan
+/* Purpose: Practicing */
+
+Body {Background: rgba(0, 0, 0, 0.877);
+      Background-Attachment: Fixed;
+      Background-Image: URL('../Pictures/Daenerys getting raped.jpg');
+      Background-Repeat: No-Repeat;
+      Background-Size: 100% 100%;}
+
+Div {Background: rgb(145, 89, 89);
+     Margin-Top: 0px;
+     Margin-Left: 400px;
+     Margin-Right: 400px;
+     Margin-Bottom: 400px;}
+
+/* .Div2 {Background: rgb(150, 24, 24);
+     Margin-Top: 0px;
+     Margin-Left: 800px;
+     Margin-Right: 800px;
+     Margin-Bottom: 800px;} */
+
+H1 {Text-Align: Center;
+    Color: rgb(255, 255, 255);
+    -webkit-text-fill-color: #FFFFFF;}
+
+H2 {Text-Align: Center;
+    Color: rgb(255, 255, 255);
+    -webkit-text-fill-color: rgb(235, 8, 185);}
+
+ol {Color: rgba(143, 49, 49, 0.733);}
+
+LI {Color: rgb(0, 0, 0);
+    text-align-last: center;
+    -webkit-text-fill-color: rgb(124, 179, 228);}
+
+Button {Color: rgb(0, 47, 255);}
+
+/* .RotateBy90Degrees {-webkit-transform: rotate(0deg); -moz-transform: rotate(0deg); -o-transform: rotate(0deg);
+    -ms-transform: rotate(0deg);
+    transform: rotate(0deg);} */
+
+table {border: 1px solid rgb(13, 66, 212);}
+td {border: 1px solid rgb(133, 9, 9);}
