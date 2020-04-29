@@ -1,2 +1,2 @@
 # Web development
-This is a project to create a website while I am getting more familiar with the technologies creating it.
+This is a project to create a website while I am getting more familiar with the technologies developing it.
