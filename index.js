@@ -1,10 +1,12 @@
-// This is my first JavaScript code!
-console.log("Hello World");
+// Performing a task
+function greet(name, lastName) {
+    console.log('Hello ' + name + ' ' + lastName);
 
-let name = "222janjna an dkan a kanfkjaf/hf\nenn\njndsfjdf";
-console.log(name);
+}
 
-let firstName = 'Serkan';
-let lastName = 'Atay';
+// Calculating a value
+function square(number) {
+    return number * number;
+}
 
-console.log(firstName + ' ' + lastName);
+console.log(square(2));
