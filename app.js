@@ -1,17 +1,15 @@
-const userInput = document.getElementById('input-number');
-const addBtn = document.getElementById('btn-add');
-const subtractBtn = document.getElementById('btn-subtract');
-const multiplyBtn = document.getElementById('btn-multiply');
-const divideBtn = document.getElementById('btn-divide');
+const defaultResult = 0;
+let currentResult = defaultResult;
 
-const currentResultOutput = document
-
-
-function outputResult(result, text) {
-    currentResultOutput.textContent = result;
-    currentCa
+function add(num1, num2) {
+    const result = num1 + num2;
+    return result;
 }
 
-let currentResult = 0;
+add(1, 2);
+add(5, 5);
 
-currentResult += 10;
+
+currentResult += (0 + 10) * 3 / 2 - 1;
+
+let calculationDescription = `(${currentResult}) * 3 / 2 - 1`;
